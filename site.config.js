@@ -8,18 +8,18 @@ const CONFIG = {
     email: "hemsej018@gmail.com",
     linkedin: " ",
     github: "HeeMang-Lee",
-    instagram: "@this_hope",
+    instagram: "this_hope",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `this hope`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "this hope",
+    description: "welcome to my blog!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
